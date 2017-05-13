@@ -1,4 +1,7 @@
 .c-navigation {
+    @media ($screen-sm-max) {
+        margin-top: $half-gutter;
+    }
     li {
         display: inline-block;
         > a {
