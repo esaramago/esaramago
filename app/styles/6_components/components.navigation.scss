@@ -1,0 +1,22 @@
+.c-navigation {
+    li {
+        display: inline-block;
+        > a {
+            display: block;
+            padding: 8px $half-gutter 6px;
+            color: $color-grey-900;
+        }
+    }
+    .is-active {
+        > a {
+            text-decoration: none;
+        }
+        &:after {
+            content: "";
+            display: block;
+            height: 4px;
+            border-radius: 2px;
+            background-color: $color-grey-900;
+        }
+    }
+}

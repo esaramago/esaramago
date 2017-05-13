@@ -1,0 +1,32 @@
+@mixin flex-row() {
+    display: flex;
+    margin-right: -($half-gutter);
+    margin-left: -($half-gutter);
+    > * {
+        padding-right: $half-gutter;
+        padding-left: $half-gutter;
+    }
+}
+
+.o-flex-row {
+    @include flex-row();
+}
+.o-flex-row--xs {
+    @media ($screen-xs-min) {
+        @include flex-row();
+    }
+}
+.o-flex-row--sm {
+    @media ($screen-sm-min) {
+        @include flex-row();
+    }
+}
+
+// Alignment
+.o-flex-row--middle {
+    align-items: center;
+}
+
+.o-flex-row__right {
+    margin-left: auto;
+}
