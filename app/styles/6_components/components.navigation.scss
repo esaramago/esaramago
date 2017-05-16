@@ -4,16 +4,14 @@
     }
     li {
         display: inline-block;
-        > a {
-            display: block;
-            padding: 8px $half-gutter 6px;
-            color: $color-grey-900;
-        }
+    }
+    a {
+        display: block;
+        padding: 8px $half-gutter 6px;
+        color: $color-grey-900;
+        text-decoration: none;
     }
     .is-active {
-        > a {
-            text-decoration: none;
-        }
         &:after {
             content: "";
             display: block;
