@@ -1,8 +1,8 @@
-# Hi, I'm Emanuel and I make websites 👋 👨‍💻
+# Hi, I'm Emanuel and I make websites 👋
 
 I'm a frontend developer and UI designer and I'm making websites for 12+ years.
 
-Check my website: [emanuelsaramago.com](emanuelsaramago.com)
+👨‍💻 Check my website: [emanuelsaramago.com](emanuelsaramago.com)
 
 ## Usually, I work with:
 - 🎨 Figma
