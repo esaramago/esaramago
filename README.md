@@ -2,7 +2,7 @@
 
 I'm a frontend developer and UI designer and I'm making websites for 12+ years.
 
-## Usually, I work with
+## Usually, I work with:
 - 🎨 Figma
 - 🧱 HTML / CSS / Javascript / TypeScript
 - 🍫 Vue / React
