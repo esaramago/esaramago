@@ -1,8 +1,6 @@
 # Hi, I'm Emanuel and I make websites 👋 👨‍💻
 
-I'm a frontend developer and UI designer.
-
-I'm making websites for 12+ years.
+I'm a frontend developer and UI designer and I'm making websites for 12+ years.
 
 ## Usually, I work with
 - 🎨 Figma
