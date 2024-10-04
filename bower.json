@@ -1,8 +1,0 @@
-{
-  "name": "esaramago",
-  "private": true,
-  "dependencies": {
-    "jquery": "~3.1.1",
-    "modernizr": "~2.8.1"
-  }
-}
