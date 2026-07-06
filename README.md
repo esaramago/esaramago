@@ -9,8 +9,8 @@ I'm a frontend developer and UI designer and I'm making websites for 13+ years.
 - 🎨 Figma / Penpot
 - 🧱 HTML / CSS / Javascript / TypeScript
 - 🍫 Vue / React / Svelte
-- 🗔 Astro / Next.js
-- 🪟 Wordpress / Sanity / Appwrite
+- 🗔 Astro / Next.js / SvelteKit
+- 🪟 Wordpress / Appwrite / Supabase / PocketBase
 - 🗄️ Vercel / Coolify
 - and more...
 
