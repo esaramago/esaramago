@@ -3,7 +3,6 @@
 I'm a frontend developer and UI designer and I'm making websites for 13+ years.
 
 👨‍💻 Check my website: [emanuelsaramago.com](emanuelsaramago.com)
-🐺 Check my [GitLab page](https://gitlab.com/emanuelsaramago)
 
 ## Usually, I work with:
 - 🎨 Figma / Penpot
