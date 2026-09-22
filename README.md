@@ -1,6 +1,6 @@
-# Hi, I'm Emanuel and I make websites 👋
+# Hi, I'm Emanuel and I make Digital Products 👋
 
-I'm a frontend developer and UI designer and I'm making websites for 13+ years.
+I'm a Product Developer and I'm making websites for 15+ years.
 
 👨‍💻 Check my website: [emanuelsaramago.com](emanuelsaramago.com)
 
