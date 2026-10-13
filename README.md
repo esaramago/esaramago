@@ -2,7 +2,7 @@
 
 I'm a Product Developer and I'm making websites for 15+ years.
 
-👨‍💻 Check my website: [emanuelsaramago.com](emanuelsaramago.com)
+👨‍💻 Check my website: [emanuelsaramago.com](https://emanuelsaramago.com)
 
 ## Usually, I work with:
 - 🎨 Figma / Penpot
@@ -13,4 +13,4 @@ I'm a Product Developer and I'm making websites for 15+ years.
 - 🗄️ Vercel / Coolify
 - and more...
 
-I'm available to work with you: [dev@emanuelsaramago.com](dev@emanuelsaramago.com)
+I'm available to work with you: [dev@emanuelsaramago.com](mailto:dev@emanuelsaramago.com)
